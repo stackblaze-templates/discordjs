@@ -1,19 +1,12 @@
-# Discord.js Bot
+<p align="center"><img src="logo.png" alt="discordjs" width="120"></p>
 
-<p align="center"><img src="logo.png" alt="Discord.js" width="120"></p>
-
-
-[![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com)
-[![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/discordjs/actions)
-[![License](https://img.shields.io/github/license/stackblaze-templates/discordjs)](LICENSE)
+# Discord.js Bot [![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com) [![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/discordjs/actions) [![License](https://img.shields.io/github/license/stackblaze-templates/discordjs)](LICENSE) [![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
 
 A Discord bot built with discord.js (JavaScript). Features slash commands, event handlers, and a modular command structure.
 
 > **Credits**: Built on [Discord.js Bot](https://discord.js.org) by [discord.js](https://github.com/discordjs). All trademarks belong to their respective owners.
 
 ## Deploy on StackBlaze
-
-[![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
 
 This template includes a `stackblaze.yaml` for one-click deployment on [StackBlaze](https://stackblaze.com).
 
